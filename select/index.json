@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Dear My Star",
+  "base_artist": "MELLOW MELLOW",
+  "createdAt": "2026-01-04T06:03:45.060842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear My Star",
+      "artist": "Sondia",
+      "has_synced": true,
+      "path": "select/01_Dear_My_Star_Sondia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear My Closest Friend",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/02_Dear_My_Closest_Friend_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear My Lovers",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/03_Dear_My_Lovers_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/04_Dear_My_Friend_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear My Friend - Ending Theme -",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/05_Dear_My_Friend_-_Ending_Theme_-_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Brent Cash",
+      "has_synced": true,
+      "path": "select/06_Dear_My_Friend_Brent_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear my blue",
+      "artist": "Yerin Baek",
+      "has_synced": true,
+      "path": "select/07_Dear_my_blue_Yerin_Baek.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear My Friends",
+      "artist": "Hi-Standard",
+      "has_synced": true,
+      "path": "select/08_Dear_My_Friends_Hi-Standard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear My Boo",
+      "artist": "Mirei Toyama",
+      "has_synced": true,
+      "path": "select/09_Dear_My_Boo_Mirei_Toyama.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dear My Boo.",
+      "artist": "當山みれい.",
+      "has_synced": true,
+      "path": "select/10_Dear_My_Boo._當山みれい..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "CLC",
+      "has_synced": true,
+      "path": "select/11_Dear_My_Friend_CLC.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dear My Friend",
+      "artist": "Every Little Thing",
+      "has_synced": true,
+      "path": "select/12_Dear_My_Friend_Every_Little_Thing.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dear my friend",
+      "artist": "Agust D feat. Kim Jong Wan of NELL",
+      "has_synced": true,
+      "path": "select/13_Dear_my_friend_Agust_D_feat._Kim_Jong_Wan_of_NELL.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dear my friend ft. Kim Jong Wan of NELL",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/14_Dear_my_friend_ft._Kim_Jong_Wan_of_NELL_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dear My Friends",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/15_Dear_My_Friends_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dear my friend (feat. Kim Jong Wan of NELL)",
+      "artist": "Agust D",
+      "has_synced": true,
+      "path": "select/16_Dear_my_friend_(feat._Kim_Jong_Wan_of_NELL)_Agust_D.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dear my blue",
+      "artist": "백예린",
+      "has_synced": true,
+      "path": "select/17_Dear_my_blue_백예린.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dear my universe",
+      "artist": "ASTRO",
+      "has_synced": true,
+      "path": "select/18_Dear_my_universe_ASTRO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear My Star",
+      "artist": "MELLOW MELLOW",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_My_Star_MELLOW_MELLOW.txt"
+    }
+  ]
+}
